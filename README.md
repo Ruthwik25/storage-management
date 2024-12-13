@@ -38,7 +38,6 @@ Make sure the following are installed on your machine:
 
 Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/Ruthwik25/storage-management.git
 
 2. Install Dependencies
